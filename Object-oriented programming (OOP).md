@@ -164,4 +164,5 @@ class Horse extends Animal{
 
 Note : at compile time its convert name of obj to (class name type) Animal
 
-not use the method override use method use method base(in super class).
+not use the method override it use method base(in super class).
+
